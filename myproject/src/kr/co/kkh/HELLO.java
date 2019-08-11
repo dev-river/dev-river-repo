@@ -6,6 +6,8 @@ public class HELLO {
 
     System.out.println("hello");
 
+    System.out.println("Me too");
+    /* ㅁㄴㅇㄻㄴㅇㄻㄴ ㅇㄹ */
   }
 
 
